@@ -1,4 +1,4 @@
-# Hi, I'm Yohanes Hailu 👋
+# Hi, Yohanes Hailu  Here👋
 
 Backend Developer | Python & Django | AI Enthusiast | Flutter Mobile Apps
 
@@ -15,7 +15,7 @@ I also build **mobile applications with Flutter**, and I have experience develop
 
 ## ⚙️ Engineering Interests
 
-- 🐍 Exploring all things **Python **
+- 🐍 Exploring all things Python **
 - 🏗️ **Clean and understandable software architecture**
 - 📈 Building **scalable applications**
 - 🤖 **Artificial Intelligence and applied ML**
