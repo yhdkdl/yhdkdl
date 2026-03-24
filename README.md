@@ -15,7 +15,7 @@ I also build **mobile applications with Flutter**, and I have experience develop
 
 ## ⚙️ Engineering Interests
 
-- 🐍 Exploring all things **Python & Django**
+- 🐍 Exploring all things **Python **
 - 🏗️ **Clean and understandable software architecture**
 - 📈 Building **scalable applications**
 - 🤖 **Artificial Intelligence and applied ML**
