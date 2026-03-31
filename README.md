@@ -1,6 +1,6 @@
 # Hi, Yohanes Hailu  Here👋
 
-Backend Developer | Python & Django | AI Enthusiast | Flutter Mobile Apps
+Backend Developer | Python | AI Enthusiast | Flutter Mobile Apps
 
 ## 🚀 About Me
 
